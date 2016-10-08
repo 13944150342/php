@@ -1,0 +1,21 @@
+
+登陆之后》个人首页》》+》new repository》按步骤创建
+
+linux环境下的检出项目到本地
+
+进入到项目主页》clone or download》复制 https (httpsgithub.com13944150342gitstudy.git)
+
+运行命令 git clone httpsgithub.com13944150342gitstudy.git
+
+编辑文件 vi filename
+
+跟踪文件 git add filename
+查看工作区的状态 git status 
+提交 git push
+
+未操作成功
+
+
+windows 下目前可完成
+
+上传 下载 修改 到版本管理器中
